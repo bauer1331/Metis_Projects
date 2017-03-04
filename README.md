@@ -7,7 +7,10 @@ visualizations in Python, D3, and Flask.
 >Using the MTA publicly available subway turnstyle data we, in a team of four, analyized and recommended subway stations to target for a street canvasing campaign.
 
 **Project 2: Movie Series Analysis**
+>Developed regression model to predict gross revenue, adjusted for inflation, with data scraped from IMDB using Scrapy. 
 
 **Project 3: Correlates of War, Predicting Hostility Levels**
+>Predicted hostility level of word wide disputes using a time series random forest classification model, with data from the Correlates of War.
 
 **Project 4: Community Survey Natural Language Processing (NLP)**
+>Natural Language Processing (NLP) on community survey long answer questions. Topic modeled with LDA and visualized in D3.js. Created Flask application to return similar words using word2vec. See first entree in Project section.

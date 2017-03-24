@@ -5,11 +5,11 @@ from insta.items import InstaItem
 class instaSpider(scrapy.Spider):
     name = "insta" #must be unique within a project
 
-    with open("randUsernames.txt", "rt") as f:
+    with open("cats2.txt", "rt") as f:
         start_urls = [url.strip() for url in f.readlines()]
         print(start_urls)
 
-    # start_urls = []
+    # start_urls = ['http://www.imgrum.org/user/snoopdogg/1574083']
 
 
     def parse(self, response): 

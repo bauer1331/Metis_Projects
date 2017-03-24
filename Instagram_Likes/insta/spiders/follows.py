@@ -4,11 +4,11 @@ import json
 class instaSpider(scrapy.Spider):
     name = "follows" #must be unique within a project
 
-    with open("user_urls.txt", "rt") as f:
-        start_urls = [url.strip() for url in f.readlines()]
-        print(start_urls)
+    # with open("user_urls.txt", "rt") as f:
+    #     start_urls = [url.strip() for url in f.readlines()]
+    #     print(start_urls)
 
-    # start_urls = ['https://www.instagram.com/_blackstage_/?__a=1']
+    start_urls = ['https://www.instagram.com/noradanish/']
 
 
     def parse(self, response): 

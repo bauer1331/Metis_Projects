@@ -1,7 +1,7 @@
 # Metis Projects
 
-Metis is an immersive 12 week data science bootcamp in NYC focusing on machine learning,  statistical analysis, project design,
-visualizations in Python, D3, and Flask.  
+Metis is an immersive 12 week data science bootcamp in NYC focusing on machine learning,  statistical analysis, project design,visualizations in Python, D3, and Flask.  
+These are the five projects I worked on while at Metis starting with the most recently completed.
 
 **Project 5: Predicting Likes on Instagram (ConvNet)**
 >Built a computer vision, convolutional neural network (ConvNet & Deep Learning) to analyze picture quality and predict likes based on a user's historical photos. Classified quality of training set photos based on expected likes per user, while considering follower count. Scraped images and meta data using Scrapy.

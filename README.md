@@ -14,3 +14,6 @@ visualizations in Python, D3, and Flask.
 
 **Project 4: Community Survey Natural Language Processing (NLP)**
 >Natural Language Processing (NLP) on community survey long answer questions. Topic modeled with LDA and visualized in D3.js. Created Flask application to return similar words using word2vec. See first entree in Project section.
+
+**Project 5: Predicting Likes on Instagram (ConvNet)**
+>Built a computer vision, convolutional neural network (ConvNet & Deep Learning) to analyze picture quality and predict likes based on a user's historical photos. Classified quality of training set photos based on expected likes per user, while considering follower count. Scraped images and meta data using Scrapy.
